@@ -31,14 +31,6 @@ REACT_APP_RAPID_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 **NOTE:** Make sure you don't share these keys publicaly.
 
-## 📌 How to use this App?
-
-1. Clone this **repository** to your local computer.
-2. Open **terminal** in root directory.
-3. Type and Run `yarn install`.
-4. Once packages are installed, type and run `yarn start`
-5. Now app is fully configured and you can start using this app :+1:
-
 ## 📃 Built with
 
 [<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">](https://www.javascript.com/)
